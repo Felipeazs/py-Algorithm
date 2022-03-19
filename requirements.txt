@@ -1,0 +1,6 @@
+boto3
+PyMySQL
+cryptography
+opencv-python-headless
+cv2_tools
+requests
