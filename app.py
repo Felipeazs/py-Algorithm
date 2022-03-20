@@ -36,7 +36,7 @@ def handler(event, context):
         match_descriptors(name, bucket, key)
 
     else:
-        print("Este archivo fue guardado en descriptores o keypoints...")
+        print("Este archivo fue guardado en descriptores y/o keypoints...")
 
 
 def descriptor(event, name):
